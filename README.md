@@ -14,4 +14,8 @@ https://app.patika.dev/mustafauysal
 
 ![image](https://user-images.githubusercontent.com/79850258/161615811-a3feda0f-7e64-42c4-ad7b-7281139899b0.png)
 
+# Practice 2
 
+## Task4
+
+![image](https://user-images.githubusercontent.com/79850258/161846272-fd421802-030e-4643-8d93-8e5aa40f9a5e.png)
