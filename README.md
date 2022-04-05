@@ -1,6 +1,6 @@
 https://app.patika.dev/mustafauysal
 
-### Practice 1
+# Practice 1
 
 ## Task1
 
